@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last Updated:** [DATE]
+**Last Updated:** July 5, 2026
 
-This Privacy Policy explains how **[COMPANY NAME]** ("we", "us", or "our") collects, uses, stores, processes, and protects your information when you use our mobile application, **[APP NAME]** (also known as **ميثاق** / **Mithaq**, hereinafter referred to as the "App"), and the choices you have associated with that data.
+This Privacy Policy explains how **jibalapps** ("we", "us", or "our") collects, uses, stores, processes, and protects your information when you use our mobile application, **Mythaq** (also known as **ميثاق** / **Mithaq**, hereinafter referred to as the "App"), and the choices you have associated with that data.
 
 We are committed to protecting and respecting your privacy. The App is designed primarily for educators and teachers to build, organize, and manage educational portfolios, lesson reports, and evaluations.
 
@@ -100,7 +100,7 @@ The App utilizes the following third-party integrations:
 * **Google Drive Storage:** 
   Your uploaded assets (evidence files, images, etc.) remain in your personal Google Drive account and are governed by your Google account's security configuration.
 * **Retention Period:** 
-  We retain your data for as long as you maintain an active account with us. If you delete your account or request account deletion, we delete your remote databases and authentication profile within [NUMBER, e.g., 30] days, except where retention is legally required.
+  We retain your data for as long as you maintain an active account with us. If you delete your account or request account deletion, we delete your remote databases and authentication profile within 30 days, except where retention is legally required.
 
 ---
 
@@ -130,13 +130,13 @@ You can permanently delete your entire cloud account, including your authenticat
 * Tap **Delete Account Permanently (حذف الحساب نهائياً)**.
 * Confirm the prompt to permanently delete your account and all associated cloud data.
 
-Alternatively, you may submit a deletion request by emailing us at **[SUPPORT EMAIL]** from the email address associated with your App account. Upon verification, we will permanently purge your data from our database servers within [NUMBER, e.g., 30] days.
+Alternatively, you may submit a deletion request by emailing us at **support@mythaq.com** from the email address associated with your App account. Upon verification, we will permanently purge your data from our database servers within 30 days.
 
 ### C. Revoking Google Drive Permissions
 Because file backups reside directly on your own Google Drive, you can revoke the App's permissions to access your Google Drive storage at any time:
 1. Go to your **Google Account Settings** (https://myaccount.google.com).
 2. Navigate to **Security** -> **Third-party apps with account access**.
-3. Locate **[APP NAME]** and click **Remove Access**.
+3. Locate **Mythaq** and click **Remove Access**.
 *(Note: Removing access will stop the cloud backup and sync features from functioning in the App, but all your previously synced files will remain intact in your Google Drive folder until you manually delete them).*
 
 ---
@@ -158,8 +158,8 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 ## 9. Contact Us
 
 If you have any questions or suggestions about this Privacy Policy or wish to request data deletion, please contact us:
-* By email: **[SUPPORT EMAIL]**
-* By visiting this link on our website: **[WEBSITE URL]**
+* By email: **support@mythaq.com**
+* By visiting this link on our website: **https://mythaq.com**
 
 ---
 
