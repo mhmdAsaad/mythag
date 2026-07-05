@@ -18,7 +18,7 @@ We collect several different types of information for various purposes to provid
 While using our App, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally Identifiable Information includes:
 
 1. **Authentication Credentials & Profile Info:** 
-   When you sign in using Google Sign-In, we receive information from Google including your unique User Identifier (UID), email address, display name, and profile picture URL.
+   When you sign in using Google Sign-In or Apple Sign-In, we receive information from the respective provider including your unique User Identifier (UID), email address, display name, and profile picture URL (where applicable).
 2. **Teacher Profile Details:** 
    To generate personalized reports and portfolios, you may provide profile information which is stored locally and synced to our secure cloud database. This information includes:
    * Full Name
@@ -130,7 +130,7 @@ You can permanently delete your entire cloud account, including your authenticat
 * Tap **Delete Account Permanently (حذف الحساب نهائياً)**.
 * Confirm the prompt to permanently delete your account and all associated cloud data.
 
-Alternatively, you may submit a deletion request by emailing us at **support@mythaq.com** from the email address associated with your App account. Upon verification, we will permanently purge your data from our database servers within 30 days.
+Alternatively, you may submit a deletion request by emailing us at **jibalapps@gmail.com** from the email address associated with your App account. Upon verification, we will permanently purge your data from our database servers within 30 days.
 
 ### C. Revoking Google Drive Permissions
 Because file backups reside directly on your own Google Drive, you can revoke the App's permissions to access your Google Drive storage at any time:
@@ -158,8 +158,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 ## 9. Contact Us
 
 If you have any questions or suggestions about this Privacy Policy or wish to request data deletion, please contact us:
-* By email: **support@mythaq.com**
-* By visiting this link on our website: **https://mythaq.com**
+* By email: **jibalapps@gmail.com**
 
 ---
 
@@ -182,4 +181,4 @@ In App Store Connect under the **App Privacy** section, select that the App coll
 1. **Does the App track users?**
    * **Yes.** Because the App integrates Advertising Networks which use device advertising identifiers (IDFA) to serve and measure targeted ads, you must declare "Yes" to tracking.
 2. **Is the data linked to the user?**
-   * **Yes.** User accounts (Google Sign-In, User UID) link user-generated reports, purchase history, and profile data directly to the user's identity. Advertising logs are generally anonymized or linked to temporary advertising IDs, but core data is linked.
+   * **Yes.** User accounts (Google Sign-In, Apple Sign-In, User UID) link user-generated reports, purchase history, and profile data directly to the user's identity. Advertising logs are generally anonymized or linked to temporary advertising IDs, but core data is linked.
